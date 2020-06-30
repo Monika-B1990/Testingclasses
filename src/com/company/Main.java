@@ -9,12 +9,10 @@ public class Main {
             System.out.println("Here you go");
         }
         else{
-            // < 18
-            if(yearNow - birthYear < 18){
+                    if(yearNow - birthYear < 18){
                 System.out.println("Too young");
             }
-            // = 18
-            else {
+                     else {
             }
         }
     }
