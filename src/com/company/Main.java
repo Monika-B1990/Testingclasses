@@ -4,7 +4,7 @@ public class Main {
         int birthYear = 1990;
         int monthNow = 6;
         int monthBirth = 8;
-        // > 18
+
         if(yearNow - birthYear > 18){
             System.out.println("Here you go");
         }
